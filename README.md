@@ -1,6 +1,8 @@
 # AdTracker
 
-AdTracker is a Python-based tool that reads search terms from a Google Sheet, queries them via the Meta, TikTok, and Google Ad Library APIs, and writes the results back to the same Google Sheet.
+AdTracker is a Python-based tool that reads search terms from a Google Sheet, queries them via the Meta, TikTok, and Google Ad Library APIs, and writes the results back to the same Google Sheet. 
+
+The AdTracker was developed by [ste-fen/adtracker](https://github.com/ste-fen/adtracker) and realized with funds provided by [netidee](https://www.netidee.at/). 
 
 ## Prerequisites
 
